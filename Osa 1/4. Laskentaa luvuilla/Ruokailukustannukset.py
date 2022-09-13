@@ -6,5 +6,5 @@ total = amount * price + groceries
 daily = total / 7
 
 print("Kustannukset keskimäärin: ")
-print(f"Päivässä {daily}")
-print(f"Viikossa {total}")
+print(f"Päivässä {daily} euroa")
+print(f"Viikossa {total} euroa")
