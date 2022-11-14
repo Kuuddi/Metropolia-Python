@@ -8,4 +8,3 @@ if name != "Jerry":
     print(f"Kokonaishinta on {portion * amount}")
 
 print("Seuraava!")
-
